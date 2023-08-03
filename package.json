@@ -1,0 +1,21 @@
+{
+  "name": "raphy",
+  "displayName": "raphy-dark",
+  "description": "raphy-dark-theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "raphy dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/raphy dark-color-theme.json"
+      }
+    ]
+  }
+}
