@@ -3,6 +3,14 @@
   "displayName": "raphy-dark",
   "description": "raphy-dark-theme",
   "version": "0.0.1",
+  "publisher":"rafidoth",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/rafidoth/raphy-dark-vscode"
+  },
+  "keywords": [
+    "theme","dark theme", "raphy", " rafidoth","tailwind","github"
+  ],
   "engines": {
     "vscode": "^1.80.0"
   },
