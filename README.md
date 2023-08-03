@@ -35,7 +35,7 @@ Has Raphy Dark enhanced your coding experience? Share the joy with your fellow d
 
 License:
 
-Raphy Dark is released under the [insert your chosen license here] license. Check out the LICENSE file for more details.
+Raphy Dark is released under the MIT license. Check out the LICENSE file for more details.
 
 Get ready to immerse yourself in the captivating harmony of Raphy Dark, where the essence of GitHub Dark meets the flair of Tailwind Darkest. Elevate your coding journey today! Happy coding! 🚀
 
